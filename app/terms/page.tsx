@@ -24,7 +24,14 @@ export default function TermsPage() {
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>3. SMS Communications</h2>
           <p className="mb-4" style={{ color: '#6B7280' }}>
-            By opting in to SMS communications, you agree to receive text messages from Abundancelearn. Standard message and data rates may apply. You may opt out at any time by replying STOP. For help, reply HELP or contact support@abundancelearn.com.
+            Abundancelearn offers two types of SMS messaging programs that you may opt into separately:
+          </p>
+          <ul className="list-disc pl-6 mb-4 space-y-2" style={{ color: '#6B7280' }}>
+            <li><strong>Customer Care SMS:</strong> Transactional and support-related messages, including account updates, responses to inquiries, and service notifications.</li>
+            <li><strong>Promotional Marketing SMS:</strong> Marketing communications including offers, promotions, webinar notifications, and updates about Abundancelearn products and services.</li>
+          </ul>
+          <p className="mb-4" style={{ color: '#6B7280' }}>
+            Opting in to either SMS program is optional and not required to use our services. Consent is not a condition of purchase. Message and data rates may apply. Message frequency varies. You may opt out at any time by replying STOP to any message. Reply HELP for assistance or contact support@abundancelearn.com. No mobile information will be shared with third parties or affiliates for marketing or promotional purposes.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>4. Limitation of Liability</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
